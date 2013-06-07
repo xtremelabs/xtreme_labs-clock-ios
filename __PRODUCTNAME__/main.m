@@ -1,8 +1,8 @@
 //
 //  main.m
-//  emptyApp
+//  __PRODUCTNAME__
 //
-//  Created by DX 108 on 2013-02-06.
+//  Created by Elliott Garcea on 2013-06-07.
 //  Copyright (c) 2013 Xtreme Labs. All rights reserved.
 //
 
