@@ -1,0 +1,5 @@
+<MANIFEST platform="ios" api_level="1.0">
+    <PROJECT name="Simple Form Lib" dir="Xtreme-Simple-Form" />
+    <REPOSITORY git_project="xl-simple_form_lib-ios" version="v1.0" url="https://github.com/xtremelabs/xl-simple_form_lib-ios.git"/>
+    <LIBRARY path="Xtreme-Simple-Form/xl_simple_form_ios.framework.zip" url="api.github.com/repos/xtremelabs/xl-simple_form_lib-ios/git/blobs/2778831a01462833eb0747fab190dd62fbdbc83c" />
+</MANIFEST>

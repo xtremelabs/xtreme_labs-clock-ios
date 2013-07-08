@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		51DAE81E584C4D6F64756C65 /* xl_simple_form_ios.framework.zip in Frameworks */ = {isa = PBXBuildFile; fileRef = 51DAE81D584C4D6F64756C65 /* xl_simple_form_ios.framework.zip */; };
 		4B6D84691762294100A3E305 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B6D84681762294100A3E305 /* UIKit.framework */; };
 		4B6D846B1762294100A3E305 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B6D846A1762294100A3E305 /* Foundation.framework */; };
 		4B6D846D1762294100A3E305 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B6D846C1762294100A3E305 /* CoreGraphics.framework */; };
@@ -42,6 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		51DAE81D584C4D6F64756C65 /* xl_simple_form_ios.framework.zip */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = xl_simple_form_ios.framework.zip; path = libraries/xl_simple_form_ios.framework.zip; sourceTree = "<group>"; };
 		4B6D84651762294100A3E305 /* __PRODUCTNAME__.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = __PRODUCTNAME__.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B6D84681762294100A3E305 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4B6D846A1762294100A3E305 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -78,6 +80,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51DAE81E584C4D6F64756C65 /* xl_simple_form_ios.framework.zip in Frameworks */,
 				4B6D84691762294100A3E305 /* UIKit.framework in Frameworks */,
 				4B6D846B1762294100A3E305 /* Foundation.framework in Frameworks */,
 				4B6D846D1762294100A3E305 /* CoreGraphics.framework in Frameworks */,
@@ -119,6 +122,7 @@
 		4B6D84671762294100A3E305 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				51DAE81D584C4D6F64756C65 /* xl_simple_form_ios.framework.zip */,
 				4B6D84681762294100A3E305 /* UIKit.framework */,
 				4B6D846A1762294100A3E305 /* Foundation.framework */,
 				4B6D846C1762294100A3E305 /* CoreGraphics.framework */,
@@ -502,3 +506,4 @@
 	};
 	rootObject = 4B6D845D1762294100A3E305 /* Project object */;
 }
+
